@@ -1,0 +1,39 @@
+[
+    {
+        "id": "Emma.Watson",
+        "userId": "Emma.Watson",
+        "basicDetails": {
+            "userType": "S",
+            "userTypeDescription": "Supervisor",
+            "firstName": "Emma",
+            "lastName": "Watson",
+            "osUserId": "ewatson",
+            "locale": "en_GB",
+            "email": "emma.watson@a.com",
+            "phone": "9999999999",
+            "businessTitle": "General Manager"
+        },
+        "entitlementDetails": {
+            "defaultEntity": "E1",
+            "defaultEntityName": "United Kingdom",
+            "defaultEntityBranch": "999999999",
+            "defaultEntityBranchName": "Bristol",
+            "roles": [
+                {
+                    "roleId": "A21",
+                    "description": "Branch Manger of SME branch"
+                }
+            ],
+            "additionalEntities": [
+                {
+                    "entityId": "E2",
+                    "entityName": "Germany",
+                    "branchId": "1000002",
+                    "branchName": "Berlin"
+                }
+            ]
+        },
+        "lockUser": "Y",
+        "lastUpdatedTime": "2018-10-10 17:32:28"
+    }
+]
